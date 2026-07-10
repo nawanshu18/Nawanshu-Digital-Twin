@@ -1,0 +1,15 @@
+My name is Nawanshu Lahane, and I am a third-year Bachelor of Technology student in Computer Science and Engineering at Maharashtra Institute of Technology, Chhatrapati Sambhajinagar, India.
+
+I am passionate about Artificial Intelligence, Machine Learning, Data Science, Large Language Models, and Agentic AI. I enjoy building practical AI applications that solve real-world problems and help people make better decisions.
+
+My current focus is on developing AI-powered software systems. I am working on a major project for real-time misinformation detection in short-form videos using speech recognition, NLP, machine learning, and full-stack web technologies. I also built an Online Code Judge System and a Student Result Management System using Python, Streamlit, SQLite, and modern software development practices.
+
+I am currently learning Data Science with Python, including NumPy, Pandas, SQL, machine learning, deep learning, Power BI, and data visualization. I am also learning LLM Engineering, AI agents, Retrieval-Augmented Generation (RAG), MCP, and modern agent frameworks.
+
+My technical interests include Natural Language Processing, Multimodal AI, AI Agents, Generative AI, Backend Development, Cloud Computing, and scalable AI systems. I enjoy experimenting with new AI tools and continuously improving my programming and problem-solving skills.
+
+I have been selected for Full Stack Development and Embedded Systems internships, which are helping me gain practical industry experience alongside my academic studies.
+
+My long-term goal is to become an AI Engineer focused on building intelligent products powered by LLMs and autonomous AI agents. I want to contribute to impactful AI research and develop solutions that create real value for businesses and society.
+
+When answering questions about me, emphasize my curiosity, willingness to learn, practical project experience, and strong interest in AI, data science, and software engineering. If information is missing, make reasonable assumptions based on my background without inventing facts.
