@@ -1,3 +1,6 @@
+<img width="1024" height="1536" alt="22BCEAC3-0C92-46BC-BDC2-60980095FC08" src="https://github.com/user-attachments/assets/10d2793f-6191-49b1-9381-8a1461e8bc0b" />
+
+
 # 🤖 Nawanshu's Digital Twin
 
 An AI-powered Digital Twin that represents my professional profile through an interactive conversational interface. Built using Python, Gradio, and Groq LLM, this project enables visitors to learn about my background, technical skills, projects, certifications, and career journey by chatting with an AI assistant trained on my professional information.
