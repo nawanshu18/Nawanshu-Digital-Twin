@@ -157,6 +157,15 @@ http://127.0.0.1:7860
 ```
 
 
+## 📷 Screenshots
+<img width="1664" height="1256" alt="1B266240-8EBC-4CB3-B7B7-D2E87C1506CA" src="https://github.com/user-attachments/assets/dc84cf5a-e195-4545-8651-edc4cdc16bc2" />
+
+<img width="1664" height="1252" alt="C5A5C143-8A73-4188-93A8-F8259425DAAE" src="https://github.com/user-attachments/assets/d714cb70-4d53-4086-9bad-a2461f6ae9fd" />
+
+<img width="1614" height="1234" alt="D76F25CC-9814-4402-B267-A10CDF04B6BA" src="https://github.com/user-attachments/assets/251b5fc7-107a-467e-8c4c-723e23462105" />
+
+<img width="1632" height="1224" alt="5D2AFCFD-423B-4BB1-AC25-DF76A231E737" src="https://github.com/user-attachments/assets/48123da4-5390-4529-9bd1-7d86e038e187" />
+
 
 ## 💡 Example Questions
 
